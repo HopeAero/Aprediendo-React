@@ -9,7 +9,7 @@ To get started with this repository, follow the steps below:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install` or `yarn install`.
 3. Start the development server by running `npm start` or `yarn start`.
-4. Open your browser and navigate to `http://localhost:3000` to see the React app in action.
+4. Open your browser and navigate to `http://localhost:5173` to see the React app in action.
 
 ## Contributing
 
